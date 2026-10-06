@@ -1,0 +1,12 @@
+{
+  "name": "how-to-spread-harmony",
+  "version": "1.0.0",
+  "description": "A simple Node.js application about spreading harmony",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
